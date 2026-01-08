@@ -9,6 +9,9 @@ out/
 ### Java ###
 *.class
 
+### Environment / Secrets ###
+.env
+
 ### Eclipse ###
 .apt_generated
 .classpath
